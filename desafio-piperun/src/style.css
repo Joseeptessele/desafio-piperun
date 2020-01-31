@@ -1,0 +1,25 @@
+/*
+####################
+INSTRUÇÔES DO DESAFIO
+#####################
+
+1. Transformar a lista em tabela;
+2. Adicionar uma coluna para que a quantidade do produto seja exibida também;
+3. Limpar a tabela  ao adicionar um novo produto, fazendo que a tabela não repita linhas; 
+4. Adicionar dois inputs de texto para que seja possível personalizar o nome e quantidade do novo produto;
+5. Refatorar as partes do código onde seja possível aplicar features do ES6 (let, const, map, arrow function);
+*/
+
+.header{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.my-custom-scrollbar {
+    position: relative;
+    height: 200px;
+    overflow: auto;
+}
+.table-wrapper-scroll-y {
+    display: block;
+}
